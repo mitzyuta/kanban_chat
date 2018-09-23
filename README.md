@@ -8,13 +8,13 @@ package.jsonが置いてあるdirectoryで
 npm installする
 
 ### 動かしてみる
-npm run build:dev後、
+npm run build:dev後、  
 dist/index.htmlを開けばよいです。
 
 serverを使う場合、
-npm run start後、
-localhost:3000/testにブラウザからアクセスする。
-\#devtoolを入れて、hotreloadするので、serverを使ったほうがいいはず。
+npm run start後、  
+localhost:3000/testにブラウザからアクセスする。  
+\#devtoolを入れて、hotreloadするので、serverを使ったほうがいいはず。  
 \#もしかしたらserverいらないかも。
 
 ## 技術
